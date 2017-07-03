@@ -1,5 +1,6 @@
-# Comparison-of-Network-Links-between-Donor-Aid-Commitments-and-Migrant-Inflows
-A Network Analysis
+# Comparison of Network Links between Donor Aid Commitments and Migrant-Inflows
+
+## A Network Analysis
 
 For d = 18 OECD Members, Pearson's correlation coefficient is estimated for aid commitments from d_1 and d_n to a given aid recipient (a non-member state of the OECD) and for migrant inflows from a given aid recipient to d_1 and d_n. 
 
