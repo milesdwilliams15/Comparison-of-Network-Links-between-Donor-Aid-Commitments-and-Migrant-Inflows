@@ -17,8 +17,7 @@ library(gridExtra)
 # Immigration
 
 # Get the data
-path <- file.path("C:","Users","Miles","Documents","R",
-                  "Network Analysis of Foreign Aid","img.csv")
+path <- file.path("https://raw.githubusercontent.com/milesdwilliams15/Comparison-of-Network-Links-between-Donor-Aid-Commitments-and-Migrant-Inflows/master/img.csv")
 img <- read.csv(path)
 
 # Get correlations
@@ -61,8 +60,7 @@ grid.draw(g)
 # ----------------------------------------------------
 # Aid Commitments
 # Get the data
-path <- file.path("C:","Users","Miles","Documents","R",
-                  "Network Analysis of Foreign Aid","aid.csv")
+path <- file.path("https://raw.githubusercontent.com/milesdwilliams15/Comparison-of-Network-Links-between-Donor-Aid-Commitments-and-Migrant-Inflows/master/aid.csv")
 aid <- read.csv(path)
 
 # Get correlations
