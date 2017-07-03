@@ -1,7 +1,7 @@
 
 # ------------------------------------------------
-# Network Analysis of Bilateral Migrant Inflows 
-# and Bilateral Aid Commitments into OECD Member 
+# Network Analysis of Bilateral Migrant Inflows into
+# and Bilateral Aid Commitments from OECD Member 
 # Countries
 # ------------------------------------------------
 library(Hmisc)
